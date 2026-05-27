@@ -1,0 +1,59 @@
+[
+    {
+        "id":1001,
+        "covers":[
+            {
+                "title":"t1",
+                "img":"./imgs/appliance/cover1.webp"
+            },
+            {
+                "title":"t2",
+                "img":"./imgs/appliance/cover2.webp"
+            }
+        ],
+        "list":[
+            {
+                "title":"小米电视S Pro Mini LED系列",
+                "desc":"288Hz超高刷、4+64G大存储",
+                "price":"4999",
+                "img":"./imgs/appliance/l1.webp"
+            },
+            {
+                "title":"小米电视 S Mini LED 系列",
+                "desc":"Mini LED 高分区背光、1200nits峰值亮度",
+                "price":"2999",
+                "img":"./imgs/appliance/l2.webp"
+            },
+            {
+                "title":"Redmi 智能电视 X 2025款",
+                "desc":"240Hz竞技模式|4+64GB|全色温双色域色准管控",
+                "price":"3499",
+                "img":"./imgs/appliance/l3.webp"
+            },
+            {
+                "title":"巨省电Pro 1.5匹超一级能效 米家空调",
+                "desc":"新一代巨省电 Pro新升级",
+                "price":"2499",
+                "img":"./imgs/appliance/l4.webp"
+            },
+            {
+                "title":"巨省电 小米空调 1.5匹新1级能效",
+                "desc":"强劲制冷 | 高效节能 | 智能互联",
+                "price":"1999",
+                "img":"./imgs/appliance/l5.webp"
+            },
+            {
+                "title":"巨省电Pro 立式3匹 超一级能效 米家空调",
+                "desc":"硬核飓风 智能省电",
+                "price":"6116",
+                "img":"./imgs/appliance/l6.webp"
+            },
+            {
+                "title":"米家迷你波轮洗衣机Pro 3kg",
+                "desc":"高温煮洗 杀菌除螨",
+                "price":"399",
+                "img":"./imgs/appliance/l7.webp"
+            }
+        ]
+    }
+]

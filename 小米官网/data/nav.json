@@ -1,0 +1,114 @@
+[
+    {
+        "id":1001,
+        "title":"手机",
+        "list":[
+            {
+                "name":"Xiaomi 数字旗舰",
+                "img":"./imgs/nav/nav_phone_1.webp"
+            },
+            {
+                "name":"Xiaomi MIX系列",
+                "img":"./imgs/nav/nav_phone_2.webp"
+            },
+            {
+                "name":"Xiaomi Civi系列",
+                "img":"./imgs/nav/nav_phone_3.webp"
+            },
+            {
+                "name":"REDMI K系列",
+                "img":"./imgs/nav/nav_phone_4.webp"
+            },
+            {
+                "name":"REDMI Turbo系列",
+                "img":"./imgs/nav/nav_phone_5.webp"
+            },
+            {
+                "name":"REDMI Note系列",
+                "img":"./imgs/nav/nav_phone_6.webp"
+            },
+            {
+                "name":"REDMI 数字系列",
+                "img":"./imgs/nav/nav_phone_7.webp"
+            }
+        ]
+    },
+    {
+        "id":1002,
+        "title":"电视",
+        "list":[
+            {
+                "name":"小米电视SPro MiniLED2026",
+                "img":"./imgs/tv/nav_tv_1.webp"
+            },
+            {
+                "name":"旗舰系列-S Mini LED 2025",
+                "img":"./imgs/tv/nav_tv_2.webp"
+            },
+            {
+                "name":"旗舰系列-S Pro Mini LED",
+                "img":"./imgs/tv/nav_tv_3.webp"
+            },
+            {
+                "name":"旗舰系列-S Mini LED",
+                "img":"./imgs/tv/nav_tv_4.webp"
+            },
+            {
+                "name":"巨幕影院-REDMI MAX",
+                "img":"./imgs/tv/nav_tv_5.webp"
+            },
+            {
+                "name":"游戏高刷-REDMI 电视 X 2026",
+                "img":"./imgs/tv/nav_tv_6.webp"
+            },
+            {
+                "name":"性价比爆款-REDMI A Pro",
+                "img":"./imgs/tv/nav_tv_7.webp"
+            },
+            {
+                "name":"性价比爆款-REDMI A 2025",
+                "img":"./imgs/tv/nav_tv_8.webp"
+            }
+        ]
+    },
+    {
+        "id":1003,
+        "title":"家电",
+        "list":[]
+    },
+    {
+        "id":1004,
+        "title":"笔记本 平板 显示器",
+        "list":[]
+    },
+    {
+        "id":1005,
+        "title":"出行 穿戴",
+        "list":[]
+    },
+    {
+        "id":1006,
+        "title":"耳机 音箱",
+        "list":[]
+    },
+    {
+        "id":1007,
+        "title":"健康 儿童",
+        "list":[]
+    },
+    {
+        "id":1008,
+        "title":"生活 箱包",
+        "list":[]
+    },
+    {
+        "id":1009,
+        "title":"智能 路由器",
+        "list":[]
+    },
+    {
+        "id":1010,
+        "title":"电源 配件",
+        "list":[]
+    }
+]

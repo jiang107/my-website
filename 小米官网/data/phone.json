@@ -1,0 +1,56 @@
+[
+    {
+        "id":1001,
+        "cover":"./imgs/phone/cover.webp",
+        "list":[
+            {
+                "title":"Xiaomi 17 Ultra 徕卡版",
+                "desc":"全方位徕卡相机体验｜徕卡2亿像素光学变焦",
+                "price":"7999",
+                "img":"./imgs/phone/l1.webp"
+            },
+            {
+                "title":"Xiaomi 17 Ultra",
+                "desc":"徕卡2亿像素光学变焦｜徕卡1英寸光影大师",
+                "price":"6999",
+                "img":"./imgs/phone/l2.webp"
+            },
+            {
+                "title":"REDMI K90 Pro Max",
+                "desc":"第五代 骁龙®8至尊版｜超级像素护眼屏｜5X 潜望长焦",
+                "price":"3999",
+                "img":"./imgs/phone/l3.webp"
+            },
+            {
+                "title":"REDMI K90",
+                "desc":"骁龙®8至尊版 ｜Sound by Bose 联合调音",
+                "price":"2599",
+                "img":"./imgs/phone/l4.webp"
+            },
+            {
+                "title":"Xiaomi 17 Pro Max",
+                "desc":"徕卡光影大师 移动影像系统｜徕卡 5X 超聚光潜望长焦",
+                "price":"5999",
+                "img":"./imgs/phone/l5.webp"
+            },
+            {
+                "title":"Xiaomi 17 Pro",
+                "desc":"徕卡光影大师 移动影像系统 ｜徕卡 5X 浮动潜望长焦｜妙享背屏",
+                "price":"4999",
+                "img":"./imgs/phone/l6.webp"
+            },
+            {
+                "title":"Xiaomi 17",
+                "desc":"徕卡光学 Summilux 高速镜头｜光影猎人 950 影像传感器",
+                "price":"4499",
+                "img":"./imgs/phone/l7.webp"
+            },
+            {
+                "title":"REDMI Note 15 Pro+",
+                "desc":"真抗摔 真防水 长续航",
+                "price":"1799",
+                "img":"./imgs/phone/l8.webp"
+            }
+        ]
+    }
+]

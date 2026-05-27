@@ -1,0 +1,26 @@
+[
+    {
+        "title": "保障服务",
+        "img": "./imgs/channel/c1.png"
+    },
+    {
+        "title": "企业团购",
+        "img": "./imgs/channel/c2.png"
+    },
+    {
+        "title": "F码通道",
+        "img": "./imgs/channel/c3.png"
+    },
+    {
+        "title": "米粉卡",
+        "img": "./imgs/channel/c4.png"
+    },
+    {
+        "title": "以旧换新",
+        "img": "./imgs/channel/c5.png"
+    },
+    {
+        "title": "话费充值",
+        "img": "./imgs/channel/c6.png"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "name":"Xiaomi手机",
+        "list":[
+            {
+                "title":"Xiaomi 17 Ultra 徕卡版",
+                "price":7999,
+                "img":"./imgs/navList/nl1.webp"
+            },
+            {
+                "title":"Xiaomi 17 Ultra",
+                "price":6999,
+                "img":"./imgs/navList/nl2.webp"
+            },
+            {
+                "title":"Xiaomi 17 Pro Max",
+                "price":5999,
+                "img":"./imgs/navList/nl3.webp"
+            },
+            {
+                "title":"Xiaomi 17 Pro",
+                "price":4999,
+                "img":"./imgs/navList/nl4.webp"
+            },
+            {
+                "title":"Xiaomi 17",
+                "price":4499,
+                "img":"./imgs/navList/nl5.webp"
+            },
+            {
+                "title":"REDMI K80 至尊版",
+                "price":2399,
+                "img":"./imgs/navList/nl6.webp"
+            }
+        ]
+    },
+    {
+        "name":"REDMI手机",
+        "list":[
+            {
+                "title":"REDMI K90 Pro Max",
+                "price":3999,
+                "img":"./imgs/navList/nl2-1.webp"
+            },
+            {
+                "title":"REDMI K90",
+                "price":2599,
+                "img":"./imgs/navList/nl2-2.webp"
+            },
+            {
+                "title":"REDMI Note 15 Pro+",
+                "price":1799,
+                "img":"./imgs/navList/nl2-3.webp"
+            },
+            {
+                "title":"REDMI Note 15 Pro",
+                "price":1349,
+                "img":"./imgs/navList/nl2-4.webp"
+            },
+            {
+                "title":"REDMI Note 15",
+                "price":999,
+                "img":"./imgs/navList/nl2-5.webp"
+            },
+            {
+                "title":"REDMI K80 至尊版",
+                "price":2399,
+                "img":"./imgs/navList/nl2-6.webp"
+            }
+        ]
+    },
+    {
+        "name":"电视",
+        "list":[]
+    },
+    {
+        "name":"笔记本",
+        "list":[]
+    },
+    {
+        "name":"平板",
+        "list":[]
+    },
+    {
+        "name":"家电",
+        "list":[]
+    },
+    {
+        "name":"路由器",
+        "list":[]
+    },
+    {
+        "name":"服务中心",
+        "list":[]
+    },
+    {
+        "name":"社区",
+        "list":[]
+    }
+]

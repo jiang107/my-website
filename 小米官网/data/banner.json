@@ -1,0 +1,32 @@
+[
+    {
+        "id":1001,
+        "img":"./imgs/banner/banner1.jpg",
+        "url":"http://www.iwenwiki.com"
+    },
+    {
+        "id":1002,
+        "img":"./imgs/banner/banner2.webp",
+        "url":"http://www.iwenwiki.com"
+    },
+    {
+        "id":1003,
+        "img":"./imgs/banner/banner3.webp",
+        "url":"http://www.iwenwiki.com"
+    },
+    {
+        "id":1004,
+        "img":"./imgs/banner/banner4.webp",
+        "url":"http://www.iwenwiki.com"
+    },
+    {
+        "id":1005,
+        "img":"./imgs/banner/banner5.webp",
+        "url":"http://www.iwenwiki.com"
+    },
+    {
+        "id":1006,
+        "img":"./imgs/banner/banner6.webp",
+        "url":"http://www.iwenwiki.com"
+    }
+]
