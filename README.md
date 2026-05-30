@@ -23,7 +23,6 @@
 ## 本地运行
 
 1. 克隆本项目到本地：
-```bash
 git clone https://github.com/jiang107/my-website.git
 
 2. 直接用浏览器打开index.html文件即可查看
