@@ -31,3 +31,4 @@ git clone https://github.com/jiang107/my-website.git
 # 待办事项应用（Vue3）
 基于 Vue3 组合式 API 开发的待办事项应用，支持增删改查 + 本地存储。
 [查看代码](./todo-vue3)
+<img width="1536" height="674" alt="localhost_5173__2026_05_30_21_44_14" src="https://github.com/user-attachments/assets/6a05cb5d-e14b-4c7c-a512-18f6f09db536" />
